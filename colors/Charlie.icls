@@ -2,22 +2,28 @@
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <colors>
+    <option name="SELECTION_FOREGROUND" value="ffffff" />
+  </colors>
   <attributes>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="527e5d" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="166426" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="527e5d" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="166426" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="527e5d" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="166426" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
