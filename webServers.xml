@@ -1,9 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="283cdb45-4ba2-4296-bfb2-7844435eed2e" name="cw.ebooking" url="http://localhost">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
       <webServer id="ed0b264a-ca9e-4d86-b4f3-07f437ebdd44" name="localhost" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
