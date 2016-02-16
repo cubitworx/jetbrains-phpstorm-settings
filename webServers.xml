@@ -4,6 +4,9 @@
       <webServer id="ed0b264a-ca9e-4d86-b4f3-07f437ebdd44" name="localhost" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="e0c8259d-5955-4dea-ac34-e1fc5265b254" name="fms13" url="http://fms13">
+        <fileTransfer mountedRoot="Z:\sitewiz" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </application>
