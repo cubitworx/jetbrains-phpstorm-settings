@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="afSchema" type="JavaScript" />
       <mapping pattern="versions" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
