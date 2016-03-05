@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="afSchema" type="JavaScript" />
+      <mapping pattern="versions" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_bb_cubitworx_eu" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="versions" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
