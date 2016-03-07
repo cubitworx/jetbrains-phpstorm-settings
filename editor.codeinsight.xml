@@ -2,4 +2,7 @@
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_METHODS" value="true" />
   </component>
+  <component name="CodeInsightSettings">
+    <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
+  </component>
 </application>
