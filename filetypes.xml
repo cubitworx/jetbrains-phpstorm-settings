@@ -1,11 +1,12 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="afSchema" type="JavaScript" />
-      <mapping pattern="versions" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_bb_cubitworx_eu" type="PLAIN_TEXT" />
+      <mapping pattern="versions" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="js___jb_bak___" type="PLAIN_TEXT" />
+      <mapping pattern="stLabel" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
