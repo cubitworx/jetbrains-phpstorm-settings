@@ -7,18 +7,12 @@
             <id />
           </State>
           <State>
-            <id>File Watchers</id>
-          </State>
-          <State>
-            <id>General</id>
-          </State>
-          <State>
-            <id>HTML</id>
+            <id>Spelling</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>HtmlUnknownTag</id>
+            <id>Spelling</id>
           </State>
         </selected-state>
       </profile-state>
